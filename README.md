@@ -26,6 +26,7 @@ Download multiple images with certain size randomly or with a query
   > $ python3 img_bulk.py 5 car sunset
   - Combine both:
   > $ python3 img_bulk.py (number of pics) (min width)x(min height)) (query)
+
   > $ python3 img_bulk.py 5 2000x0 car sunset
 
 **Output will be in the archive img_bulk.zip**
