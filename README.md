@@ -36,3 +36,7 @@ It rewrites on every execution
 
 ## To do
  - Multiple file output
+
+## Similar services
+ - [unsample.net](https://unsample.net/)
+ - [picsum.photos](https://picsum.photos/)
