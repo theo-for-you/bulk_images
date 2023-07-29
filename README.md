@@ -4,6 +4,7 @@ Download multiple images with certain size randomly or with a query
 
 ## Used packages
 **Require installation**
+
 [Duckduckgo_search](https://github.com/deedy5/duckduckgo_search) by deedy5
 
 ## How to use
