@@ -12,13 +12,17 @@ Download multiple images with certain size randomly or with a query
  - To get just a certain amount of pics run:
 
 >   $ python3 img_bulk.py (number of pics)
+
 >   $ python3 img_bulk.py 5
   - To get pics with minimal resolution:
   > $ python3 img_bulk.py (number of pics) (min width)x(min height)
+
   > $ python3 img_bulk.py 5 1920x1080
-  > $ python3 img_bulk.py 5 0x2000
+
+ > $ python3 img_bulk.py 5 0x2000
   - To get certain pictures:
   > $ python3 img_bulk.py (number of pics) (query)
+
   > $ python3 img_bulk.py 5 car sunset
   - Combine both:
   > $ python3 img_bulk.py (number of pics) (min width)x(min height)) (query)
