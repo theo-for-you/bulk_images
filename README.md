@@ -33,3 +33,6 @@ Download multiple images with certain size randomly or with a query
 **Output will be in the archive img_bulk.zip**
 
 It rewrites on every execution
+
+## To do
+ - Multiple file output
